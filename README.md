@@ -4,7 +4,7 @@ EPFL · Spring 2025 · Prof. Pierre Collin-Dufresne
 
 Construction and evaluation of systematic investment strategies for a U.S. investor with exposure to international equity and currency markets.
 
-📄 **[Read the full report (PDF)](https://github.com/Theo2co/epfl-fin405-investments/blob/main/Project_Investments.pdf)** · 📓 **[View the notebook](https://github.com/Theo2co/epfl-fin405-investments/blob/main/FINAL_CATM.ipynb)**
+📄 **[Read the full report (PDF)](https://github.com/Theo2co/epfl-fin405-investments/raw/main/Project_Investments.pdf)** · 📓 **[View the notebook](https://github.com/Theo2co/epfl-fin405-investments/blob/main/FINAL_CATM.ipynb)**
 
 ## Authors (Group 10)
 
